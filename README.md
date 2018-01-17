@@ -30,3 +30,7 @@ Key(?) papers, in an approximate suggested reading order (within each category).
 - [Experimental design in the context of Tikhonov regularized inverse problems](http://journals.sagepub.com/doi/abs/10.1177/1471082X13494613) by Tenorio, Lucero, Ball and Horesh, 2013.
 
 - [On Bayesian A- and D-optimal experimental designs in infinite dimensions](https://projecteuclid.org/euclid.ba/1440594948) by Alexanderian, Gloor and Ghattas, 2016.
+
+### Interpolation via inverse distance weighting
+
+- [Regression-based inverse distance weighting with applications to computer experiments](http://amstat.tandfonline.com/doi/pdf/10.1198/TECH.2011.09154?needAccess=true) by Joseph and Kang, 2011.
