@@ -11,6 +11,8 @@ Key(?) papers, in an approximate suggested reading order (within each category).
 ### Sparse grids
 - [Sparse grids](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/47EA2993DB84C9D231BB96ECB26F615C/S0962492904000182a.pdf/sparse_grids.pdf) by Bungartz and Griebel.
 
+ - [Fast prediction of deterministic functions using sparse grid experimental designs](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.900250) by Plumlee, 2014 (sparse grids and GP models for prediction)
+
 ### Sequential design (active learning)
 - [Sequential design with mutual information for computer experiments (MICE): emulation of a tsunami model](http://epubs.siam.org/doi/pdf/10.1137/140989613) by Beck and Guillas, 2016 (the introduction contains a simple description of the problem and references).
 
