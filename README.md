@@ -36,3 +36,18 @@ Key(?) papers, in an approximate suggested reading order (within each category).
 ### Interpolation via inverse distance weighting
 
 - [Regression-based inverse distance weighting with applications to computer experiments](http://amstat.tandfonline.com/doi/pdf/10.1198/TECH.2011.09154?needAccess=true) by Joseph and Kang, 2011.
+
+### Voronoi tessllations
+
+- [Centroidal Voronoi tessellations: applications and algorithms](http://epubs.siam.org/doi/abs/10.1137/S0036144599352836) by Du, Faber and Gunzburger, 1999.
+
+- [Probabilistic methods for centroidal Voronoi tessellations and their parallel implementations](https://www.sciencedirect.com/science/article/pii/S0167819102001515) by Ju, Du and Gunzburger, 2002.
+
+- [Centroidal Voronoi tessellation algorithms for image compression, segmentation, and multichannel restoration](https://link.springer.com/content/pdf/10.1007/s10851-005-3620-4.pdf) by Du, Gunzburger, Ju and Wang, 2006.
+
+- [Latinized, improved LHS, and CVT point sets in hypercubes](https://www.researchgate.net/publication/242577446_Latinized_improved_LHS_and_CVT_point_sets_in_hypercubes) by Saka, Gunzburger and Burkardt, 2007
+
+- [A multiresolution method for climate sustem modeling: application of spherical centroidal Voronoi tessellations](https://link.springer.com/article/10.1007/s10236-008-0157-2) by Ringler, Ju and Gunzburger, 2008.
+
+- [Constrained CVT meshes and a comparison of triangular mesh generators](https://www.sciencedirect.com/science/article/pii/S0925772108000394) by Nguyen, Burkardt, Gunzburger, Ju and Saka, 2009.
+
