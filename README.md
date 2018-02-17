@@ -43,7 +43,7 @@ Key(?) papers, in an approximate suggested reading order (within each category).
 
 - [Probabilistic methods for centroidal Voronoi tessellations and their parallel implementations](https://www.sciencedirect.com/science/article/pii/S0167819102001515) by Ju, Du and Gunzburger, 2002.
 
-- [Centroidal Voronoi tessellation algorithms for image compression, segmentation, and multichannel restoration](https://link.springer.com/content/pdf/10.1007/s10851-005-3620-4.pdf) by Du, Gunzburger, Ju and Wang, 2006.
+- [Centroidal Voronoi tessellation algorithms for image compression, segmentation, and multichannel restoration](https://link.springer.com/article/10.1007/s10851-005-3620-4) by Du, Gunzburger, Ju and Wang, 2006.
 
 - [Latinized, improved LHS, and CVT point sets in hypercubes](https://www.researchgate.net/publication/242577446_Latinized_improved_LHS_and_CVT_point_sets_in_hypercubes) by Saka, Gunzburger and Burkardt, 2007
 
